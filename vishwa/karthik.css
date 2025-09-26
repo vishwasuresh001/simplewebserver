@@ -1,0 +1,15 @@
+h1 {
+  width: 170px;
+  height: 110px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 10s;
+animation-iretaion-count: infinite;
+animation-direction: normal;
+}
+@keyframes example {
+  0%   {backgroundcolor: red;}
+  25%  {background-color: yellow;}
+  50%  {background-color: blue;}
+  100% {background-color: green;}
+}
