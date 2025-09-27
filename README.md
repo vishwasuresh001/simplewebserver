@@ -17,7 +17,7 @@ Implementation using Python code.
 ### Step 4:
 Import the necessary modules.
 
-### St
+### Step 5:
 Start an HTTP server on a specific port.
 
 ### Step 7:
