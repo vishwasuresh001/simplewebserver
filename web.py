@@ -6,7 +6,7 @@ content = """
         <title>device</title>
     </head>
     <body>
-        <h1 align="right">Device specification-25012636</h1>
+        <h1 align="center">Device specification-25012636</h1>
         <br>
         <center>
         <table border="3"  width="400" height="300">
@@ -19,7 +19,7 @@ content = """
             <tr>
                 <td>1</td>
                 <td>storage</td>
-                <td>1 TB</td>
+                <td>512 GB</td>
             </tr>
             <tr>
                 <td>2</td>
